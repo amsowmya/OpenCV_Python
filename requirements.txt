@@ -1,0 +1,6 @@
+imutils
+opencv-python
+scikit-image
+numpy
+matplotlib
+apriltag
